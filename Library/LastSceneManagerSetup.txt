@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Borel.unity
+- path: Assets/Examples/Scenes/ProstiputeTest.unity
   isLoaded: 1
   isActive: 1

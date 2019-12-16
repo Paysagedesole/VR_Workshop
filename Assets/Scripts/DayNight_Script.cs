@@ -10,6 +10,7 @@ public class DayNight_Script : MonoBehaviour
     public float currentTimeOfDay = 0;
     Color sunColor;
     public bool isNight;
+    
 
 
 
@@ -48,7 +49,8 @@ public class DayNight_Script : MonoBehaviour
         }
     }
 
-   
+    
+    
        
     
 }

@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{E22BE556-20B1-2CF8-E70B-75B9E326C3D5}</ProjectGuid>
+    <ProjectGuid>{DCCE99E1-2D64-C821-4D6D-C7919F311A9A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -520,25 +520,25 @@
     <Compile Include="Assets\StylizedWater\Scripts\Editor\StylizedWaterInspector.cs" />
     <Compile Include="Assets\StylizedWater\Scripts\Editor\SWS_ASEDepthNode.cs" />
     <Reference Include="Assembly-UnityScript">
-      <HintPath>C:/Users/GS-Prepa-Master/Unity/VR_Workshop_2018.2.20f1/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+      <HintPath>D:/Game Projects/VR_Workshop/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>C:/Users/GS-Prepa-Master/Unity/VR_Workshop_2018.2.20f1/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <HintPath>D:/Game Projects/VR_Workshop/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids">
-      <HintPath>C:/Users/GS-Prepa-Master/Unity/VR_Workshop_2018.2.20f1/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+      <HintPath>D:/Game Projects/VR_Workshop/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids.Editor">
-      <HintPath>C:/Users/GS-Prepa-Master/Unity/VR_Workshop_2018.2.20f1/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+      <HintPath>D:/Game Projects/VR_Workshop/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/GS-Prepa-Master/Unity/VR_Workshop_2018.2.20f1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Game Projects/VR_Workshop/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/GS-Prepa-Master/Unity/VR_Workshop_2018.2.20f1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Game Projects/VR_Workshop/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/GS-Prepa-Master/Unity/VR_Workshop_2018.2.20f1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Game Projects/VR_Workshop/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -777,12 +777,6 @@
     <Reference Include="UnityEditor.Graphs">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.Android.Extensions">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
@@ -790,31 +784,25 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="AssetIdRemapUtility">
-      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/AssetIdRemapUtility/Editor/AssetIdRemapUtility.dll</HintPath>
+      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/AssetIdRemapUtility/Editor/AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderCore">
-      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderCore.dll</HintPath>
+      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderCore.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderMeshOps">
-      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderMeshOps.dll</HintPath>
+      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderMeshOps.dll</HintPath>
     </Reference>
     <Reference Include="KdTreeLib">
-      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
     </Reference>
     <Reference Include="pb_Stl">
-      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
     </Reference>
     <Reference Include="Poly2Tri">
-      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderEditor">
-      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Editor/ProBuilderEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
+      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Editor/ProBuilderEditor.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/MonoBleedingEdge/lib/mono/2.0-api/mscorlib.dll</HintPath>
@@ -846,19 +834,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{023D531A-6D14-0C48-B9D4-DC3475FB2CEF}</Project>
+      <Project>{56A040B6-AAA3-F203-94CA-69C718D68CF2}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{DB206386-7BE1-280D-012A-F1802E2B88F8}</Project>
+      <Project>{5A172198-1628-C2DC-595F-DAB54B24EE09}</Project>
       <Name>Oculus.VR.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
-      <Project>{1BE32DF5-C32E-BB26-ACC8-71C516478779}</Project>
+      <Project>{E7BEA3EF-8AD9-A120-84A7-B2A26316E9B4}</Project>
       <Name>Oculus.VR.Scripts.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{A0400CCF-168D-0CE1-455A-BB2C12092CD9}</Project>
+      <Project>{843496D5-A88F-E032-AD74-3C90CD017BD9}</Project>
       <Name>Oculus.VR</Name>
     </ProjectReference>
   </ItemGroup>
