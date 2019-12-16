@@ -301,6 +301,12 @@
     <Reference Include="UnityEditor.Graphs">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
@@ -308,25 +314,25 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="AssetIdRemapUtility">
-      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/AssetIdRemapUtility/Editor/AssetIdRemapUtility.dll</HintPath>
+      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/AssetIdRemapUtility/Editor/AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderCore">
-      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderCore.dll</HintPath>
+      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderCore.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderMeshOps">
-      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderMeshOps.dll</HintPath>
+      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ProBuilderMeshOps.dll</HintPath>
     </Reference>
     <Reference Include="KdTreeLib">
-      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
     </Reference>
     <Reference Include="pb_Stl">
-      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
     </Reference>
     <Reference Include="Poly2Tri">
-      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderEditor">
-      <HintPath>C:/Users/alexa/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Editor/ProBuilderEditor.dll</HintPath>
+      <HintPath>C:/Users/GS-Prepa-Master/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Editor/ProBuilderEditor.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.21f1/Editor/Data/MonoBleedingEdge/lib/mono/2.0-api/mscorlib.dll</HintPath>
