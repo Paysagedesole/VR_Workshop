@@ -1,5 +1,6 @@
 
 Temp/UnityLockfile
+<<<<<<< HEAD
 Temp/UnityTempFile-fc3ff71cfffe82c42a1032bb24e6680a
 Temp/UnityTempFile-f94dffe2d1f8aa7429846049318d4a1b
 Temp/UnityTempFile-cf27e941610201f47ba7de5455b22d6a
@@ -2340,3 +2341,6 @@ Assets/Examples/Scenes/ProstiputeTest.meta
 Assets/Examples/Scenes/Example_Interactions.meta
 Assembly-CSharp.csproj
 Assembly-CSharp-Editor.csproj
+=======
+Temp/__Backupscenes/0.backup
+>>>>>>> f50ae49fa73e0e3b018636dba151d067e2f45ca9
