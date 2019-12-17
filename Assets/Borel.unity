@@ -70149,7 +70149,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1459206890}
-  - component: {fileID: 1459206892}
   - component: {fileID: 1459206891}
   m_Layer: 0
   m_Name: DayNightObject
@@ -70187,21 +70186,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sun: {fileID: 1239886360}
-  secondsInFullDay: 220
+  secondsInFullDay: 30
   currentTimeOfDay: 0
   isNight: 0
---- !u!114 &1459206892
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114454983100744684, guid: 92bfada03d2ea14448247eb3f87fbda7,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1459206889}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1463754743
 Prefab:
   m_ObjectHideFlags: 0
